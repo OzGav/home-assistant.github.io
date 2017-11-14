@@ -148,7 +148,7 @@ Home Assistant is not affiliated with CloudMQTT nor will receive any kickbacks.
 
 ```yaml
 mqtt:
-  broker: CLOUTMQTT_SERVER
+  broker: CLOUDMQTT_SERVER
   port: CLOUDMQTT_PORT
   username: CLOUDMQTT_USER
   password: CLOUDMQTT_PASSWORD
